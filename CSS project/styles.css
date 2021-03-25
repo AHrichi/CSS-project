@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box ;
+    padding:0;
+    maging:0;
+    
+  
+  
+  }
+  .Top{
+    background-color:#c3073f; 
+    padding: 5px 15px ;
+    color: white;
+    font-family: 'Roboto';
+    font-size: 18px;
+    
+  }  
+  .navbar{
+    background-color: #1A1A1D;
+    color: #950740;
+    display: flex;
+    justify-content: space-around ;  
+    align-items: center;
+    font-size: 30px ;
+    font-family: 'Roboto';
+   
+  }
+  
+  .navbar-list{
+    list-style-type: none ;
+  }
+  
+  .navbar-list .list-item{
+    display: inline-block ;
+    padding: 5px 15px ;
+    
+  }
+  .navbar a{
+    color:#950740;
+    text-decoration: none;
+    
+  }
+  .navbar a:hover {
+    color:#C5C6C7;
+  }
+  .student{
+    height: 80px ;
+  }
+  .all-sections{
+     background-color: #1F2833;
+     padding: 5px 15px ;
+     font-family: 'Roboto';
+     color:white;
+     background-image: url("http://wallpoper.com/images/00/31/33/51/black-background_00313351.jpg");
+     height: 100%;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+      
+  }
+.all-sections a{
+      color:#8EE4Af;
+      text-decoration: none;
+      font-size:30px
+}
+.media{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.all-sections p {
+font-size:20px;  
+}
